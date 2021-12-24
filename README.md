@@ -1,0 +1,1 @@
+# an-example-of-Concise-Conditional-Operator-in-C-
